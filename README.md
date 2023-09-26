@@ -1,5 +1,7 @@
 # Medical-disease-detection
 Parkinson, Heart Disease, and Breast Cancer detection with python
+
+PARKINSON MODEL 
 Dataset 1
 The dataset was created by Max Little of the University of Oxford, in collaboration with the National 
 Centre for Voice and Speech, Denver, Colorado, who recorded the speech signals. The original study 
@@ -251,6 +253,7 @@ experimentation to achieve the best performance. Furthermore, an inappropriate c
 lead to overfitting or underfitting problems. SVMs tend to be less interpretable than simpler models 
 such as linear regressions or decision trees. The optimal separating hyperplane is often difficult to 
 visualize and explain intuitively.
+
 Dataset 2
 The data used in this study were gathered from 188 patients with PD (107 men and 81 women) with 
 ages ranging from 33 to 87 at the Department of Neurology in CerrahpaÅŸa Faculty of Medicine, 
